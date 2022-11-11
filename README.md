@@ -1,2 +1,2 @@
 # UNIVERSIDAS DE LAS FUERZAS ARMADAS "ESPE"
-https://upload.wikimedia.org/wikipedia/commons/2/27/Logo_ESPE.png
+https://www.espe.edu.ec/wp-content/uploads/2018/11/espe.png
