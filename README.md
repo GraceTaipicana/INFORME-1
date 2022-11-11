@@ -75,4 +75,24 @@ MARCO TEÓRICO (RESUMEN)
 ----------------------------------------------------------------------------------------------------------------------------------------
 4. VIDEO
 
+https://share.vidyard.com/watch/XjAgyiVtb4GYbrJuPCyWfP?
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------
+5. CONCLUSIONES
+
+Se establece que gracias al análisis y desarrollo de los temas estudiados podemos
+denotar la importancia de esta notación, métodos, reconocer un circuito eléctrico
+con sus elementos y los conceptos relacionados a la electrónica fundamental tales
+como el voltaje, corriente y resistencia se pudo observar de manera práctica la
+relación entre los 3 conceptos, permitiendo la medición de estos y un análisis
+completo sobre sus aplicaciones al cálculo de circuitos electrónicos.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------
+BIBLIOGRAFÍA
+
+Floyd, Thomas.L. (sf). Floyd Octava Edición principios de circuitos eléctricos (8va
+edición, Vol. 1). Prentice Hall.
+https://latecnicalf.com.ar/descargas/material/electronicaanalogica/Dispositivos%20El
+ectronicos%208va.edicion-%20Floyd.pdf
 
