@@ -52,5 +52,27 @@ MARCO TEÓRICO (RESUMEN)
 ![image](https://user-images.githubusercontent.com/116777044/201264453-c144d110-d79e-4f23-b224-db12d5a045f8.png)
 ![image](https://user-images.githubusercontent.com/116777044/201264468-78769e89-ef06-4d82-b8b1-b8e26ceb0101.png)
 ![image](https://user-images.githubusercontent.com/116777044/201264484-a255c4d6-03ce-40be-9f24-cb13b626c74b.png)
+![image](https://user-images.githubusercontent.com/116777044/201266199-25476444-4430-45a2-9943-22f6b4a1d877.png)
+![image](https://user-images.githubusercontent.com/116777044/201266224-0b2c10a8-1fa4-489d-88fe-ab2571b65ab4.png)
+![image](https://user-images.githubusercontent.com/116777044/201266242-ef8dc1cb-1174-41cf-bb01-226f09e68ac3.png)
+![image](https://user-images.githubusercontent.com/116777044/201266256-ae8f4aa0-cd54-4ef2-86bf-d16dd1351405.png)
+![image](https://user-images.githubusercontent.com/116777044/201266281-e5939ce0-e215-42ac-b9a9-c3fd49e80a4c.png)
+![image](https://user-images.githubusercontent.com/116777044/201266292-7f76de24-6649-404b-98c1-8e67e29ac6a2.png)
+![image](https://user-images.githubusercontent.com/116777044/201266300-476657b7-dcd3-417f-bb3a-741f11efc017.png)
+![image](https://user-images.githubusercontent.com/116777044/201266313-e28c51f8-e3d1-4dd7-b99c-d87b31854352.png)
+![image](https://user-images.githubusercontent.com/116777044/201266454-141b20cf-eef0-49b5-a882-eb0f8e824f42.png)
+![image](https://user-images.githubusercontent.com/116777044/201266466-bc63a3e6-8a57-4877-81ae-89c0b13ab804.png)
+![image](https://user-images.githubusercontent.com/116777044/201266479-a8aa1dd3-ec73-4c67-a6a9-d1c28aaf2a1a.png)
+![image](https://user-images.githubusercontent.com/116777044/201267714-e08fca5b-cf94-4aa1-ab1e-ad7370b90429.png)
+![image](https://user-images.githubusercontent.com/116777044/201267738-6b01059e-73c0-4d68-9272-1fd81ff32880.png)
+![image](https://user-images.githubusercontent.com/116777044/201267760-1ef3be27-630d-4073-a8ea-385ad4369b19.png)
+![image](https://user-images.githubusercontent.com/116777044/201267856-a1938f4a-10d4-47cf-a580-be5d5d180638.png)
+![image](https://user-images.githubusercontent.com/116777044/201267869-4afa07ed-fbdf-4c84-9cc8-01c44e03a0e8.png)
+![image](https://user-images.githubusercontent.com/116777044/201267903-e0b9ab5b-fbd9-485c-8d81-c5b1205e8b6a.png)
+![image](https://user-images.githubusercontent.com/116777044/201267924-b7101cb5-2320-4adb-b0c0-46501cabdff4.png)
+![image](https://user-images.githubusercontent.com/116777044/201267954-a720a015-9107-4a6e-8546-c3ceddbe35b9.png)
+
+----------------------------------------------------------------------------------------------------------------------------------------
+4. VIDEO
 
 
